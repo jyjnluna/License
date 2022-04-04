@@ -1,0 +1,34 @@
+2. 현행 시스템 분석
+
+소프트웨어 아키텍처 개념
+- 소프트웨어 아키텍처는 여러 가지 소프트웨어 구성요소와 그 구성요소가 가진 특성 중에서 외부에 드러나는 특성, 그리고 구성요소 간의 관계를 표현하는 시스템의 구조나 구조체이다.
+
+소프트웨어 아키텍처 4+1 뷰 개념
+- 소프트웨어 아키텍처 4+1 뷰는 고객의 요구사항을 정리해 놓은 시나리오를 4개의 관점에서 바라보는 소프트웨어적인 접근 방법이다. 4개의 분리된 구조로 구성되는 아키텍처 개념을 중시하고, 이들 4개 구조가 서로 충돌되지 않는지, 시스템의 요구사항을 충족시키는지를 증명하기 위해 체크 방법으로 유스케이스를 사용한다.
+
+소프트웨어 아키텍처 4+1 뷰 구성요소
+- 유스케이스 뷰 / 논리 뷰 / 프로세스 뷰 / 구현 뷰 / 배포 뷰 
+
+소프트웨어 아키텍처 패턴 개념
+- 소프트웨어 아키텍처 패턴은 소프트웨어를 설계할 때 참조할 수 있는 전형적인 해결 방식이다.
+
+소프트웨어 아키텍처 패턴 유형
+- 계층화 패턴(Layered Pattern) / 클라이언트 - 서버 패턴(Client-Server Pattern) / 파이프-필터 패턴(Pipe-Filter Pattern) / 브로커 패턴(Broker Pattern) / 모델-뷰-컨트롤러 패턴(MVC; Model View Controller Pattern)
+
+디자인 패턴 개념
+- 디자인 패턴은 소프트웨어 공학의 소프트웨어 설계에서 공통으로 발생하는 문제에 대해 자주 쓰이는 설계 방법을 정리한 패턴이다.
+
+디자인 패턴 유형
+- 구분 : 목적 / 범위
+- 유형 : 목적(생성 / 구조 / 행위), 범위(클래스 / 객체)
+
+디자인 패턴 종류
+- 생성패턴 : Builder, Prototype, Factory Method, Abstract Factory, Singleton
+- 구조패턴 : Bridge, Decorator, Facade, Flyweight, Proxy, Composite, Adapter
+- 행위패턴 :　Mediator, Interpreter, Iterator, Template Method, Observer, State, Visitor, Command, Strategy, Memento, Chain of Responsibility
+
+운영체제의 개념
+- 컴퓨터 시스템이 제공하는 모든 하드웨어, 소프트웨어를 사용할 수 있도록 해주고, 컴퓨터 사용자와 컴퓨터 하드웨어 간의 인터페이스를 담당하는 프로그램이다.
+
+운영체제 종류
+- PC(Windows, UNIX, Linux), 모바일(Android, IOS)
